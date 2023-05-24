@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aplicacion-lista-de-tareas/static/css/main.86781e19.css",
+    "main.js": "/aplicacion-lista-de-tareas/static/js/main.4d6b85e0.js",
+    "index.html": "/aplicacion-lista-de-tareas/index.html",
+    "main.86781e19.css.map": "/aplicacion-lista-de-tareas/static/css/main.86781e19.css.map",
+    "main.4d6b85e0.js.map": "/aplicacion-lista-de-tareas/static/js/main.4d6b85e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86781e19.css",
+    "static/js/main.4d6b85e0.js"
+  ]
+}
