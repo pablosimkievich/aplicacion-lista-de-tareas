@@ -1,0 +1,50 @@
+/**
+* ? Estructura Principal
+**/
+
+
+.tarea-formulario {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+/**
+* ? Campo de Texto
+**/
+
+.tarea-input {
+    width: 340px;
+    margin: 0 4px 0px 0px;
+    font-size: 17px;
+    font-weight: 700;
+    background-color: #BAD7E9;
+    padding: 14px 32px 14px 16px;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+}
+
+/**
+* ? Boton agregar Tarea 
+**/
+
+.tarea-boton {
+    padding: 14px;
+    margin: 12px 0px 12px 12px;
+    font-size: 17px;
+    font-weight: 700;
+    font-family: monospace;
+    border-radius: 6px;
+    cursor: pointer;
+    outline: none;
+    background: #6EBF8B;
+    color: #514196;
+    text-transform: capitalize;
+    border: none;
+}
+
+.tarea-boton:hover {
+    background: #599e71;
+}
